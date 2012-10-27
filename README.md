@@ -13,6 +13,8 @@ Licence:
 This distribution also includes:
 - Arduino Serial Communication with Web GUI Via PHP 
   http://missionduke.com/wordpress/arduino-projects/
+  based on PHP Serial class by Rémy Sanchez <thenux@gmail.com> 
+
 
 
 
