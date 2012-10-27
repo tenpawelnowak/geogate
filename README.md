@@ -30,13 +30,21 @@ This can be later extended to giving access to your friends, when they arrive ga
 will be open for them. 
 
 Project consists of several parts: 
-* Arduino 
+* Arduino Uno (any version will do, but was developed on Uno)
 * WiFi shield for Arduino 
 * Webserver
 * iPhone
 
 
 
+
+
+Repo
+====
+
+* arduino - code for your Arduino
+* server - code for your PHP server
+* schemats - schemats for Arduino connections (use Fritzing to open http://fritzing.org/download/)
 
 
 
