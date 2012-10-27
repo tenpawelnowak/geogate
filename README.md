@@ -15,7 +15,8 @@ This distribution also includes:
   http://missionduke.com/wordpress/arduino-projects/
   based on PHP Serial class by Rémy Sanchez <thenux@gmail.com> 
 
-
+Project status: 
+- very early, testing each component
 
 
 
@@ -29,10 +30,10 @@ This can be later extended to giving access to your friends, when they arrive ga
 will be open for them. 
 
 Project consists of several parts: 
-1. Arduino 
-2. WiFi shield for Arduino 
-3. Webserver
-4. iPhone
+* Arduino 
+* WiFi shield for Arduino 
+* Webserver
+* iPhone
 
 
 
