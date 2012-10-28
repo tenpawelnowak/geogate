@@ -5,6 +5,7 @@ Arduino powered gate opener with companion iPhone app.
 
 Authors: 
 - Paweł Nowak, pawel@chwilami.pl
+- Idea from Marcin Klimek, mail@marcinklimek.com
 
 Licence: 
 - Creative Commons 3.0
@@ -17,7 +18,9 @@ This distribution also includes:
 
 Project status: 
 - very early, testing each component
-
+- we run open Trello bard here 
+  https://trello.com/board/remotuino/507c87b4d4b676d012130fc9
+  email pawel@chwilami.pl for access (we have to add you)
 
 
 Description
@@ -34,7 +37,6 @@ Project consists of several parts:
 * WiFi shield for Arduino 
 * Webserver
 * iPhone
-
 
 
 
