@@ -21,7 +21,7 @@ if (isset($_GET['action'])) {
     $serial = new phpSerial(); 
 
     //Specify the serial port to use... in this case COM1 
-    $serial->deviceSet("/dev/tty.usbmodemfa131"); //SET THIS TO WHATEVER YOUR SERIAL DEVICE HAPPENS TO BE, YOU CAN FIND THIS UNDER THE ARDUINO SOFTWARE'S MENU
+    $serial->deviceSet("/dev/tty.usbmodemfd111"); //SET THIS TO WHATEVER YOUR SERIAL DEVICE HAPPENS TO BE, YOU CAN FIND THIS UNDER THE ARDUINO SOFTWARE'S MENU
      
     //Set the serial port parameters. The documentation says 9600 8-N-1, so 
     $serial->confBaudRate(9600); //Baud rate: 9600 
